@@ -222,5 +222,5 @@ Sometimes we need the model to help us refine our initial prompt, generating ima
 - `Emphasize the conceptual difference between acoustic mixture and spatial separation.`
 
 **Its results:**
-<img src="assets/meeting-challenge.jpg" alt="Meeting Challenges" width="600"/>
+<img src="assets/comparison-diagram.png" alt="Meeting Challenges" width="600"/>
 
