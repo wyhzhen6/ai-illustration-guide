@@ -60,6 +60,7 @@ After several rounds of refinement, the prompt became highly focused. It no long
 What I appreciate about this iterative approach is that the prompt becomes a vehicle for **clarifying my own technical narrative**. By deciding what to *remove* (like excessive lines) and what to *emphasize* (like the specific reflection paths), I forced myself to distill the research problem down to its most essential components. The AI helped me realize that in scientific illustration, **what you choose to leave out is often just as important as what you put in.**
 
 **Final Output:**
+
 <img src="assets/meeting-challenge.jpg" alt="Meeting Challenges" width="600"/>
 
 ---
@@ -222,5 +223,6 @@ Sometimes we need the model to help us refine our initial prompt, generating ima
 - `Emphasize the conceptual difference between acoustic mixture and spatial separation.`
 
 **Its results:**
+
 <img src="assets/comparison-diagram.png" alt="Meeting Challenges" width="600"/>
 
